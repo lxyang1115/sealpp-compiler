@@ -1,4 +1,6 @@
 # sealpp-compiler
+SJTU IS203课程作业
+
 部分完成sealpp语言的编译器
 
 sealpp：Simple Education Accompanying Language Plus Plus，用于课程实验
